@@ -1,11 +1,3 @@
-### 👩🏻‍🚀 Hey! I'm **Clara** (she/her), a Paris-based software developer.
+Hey! I'm **Clara**, a self-taught software developer. I strive to craft thoughtful, convenient tools that make our world easier to navigate. Feel free to reach out!
 
-After 1⅓ year learning webdev with [**The Odin Project**](https://github.com/TheOdinProject) *(a self-paced online curriculum that is entirely free and open source)* and [**La Capsule**](https://www.lacapsule.academy/) _(a 10-weeks on-site bootcamp)_, I am now working as a React Frontend Engineer at [**MWM**](https://mwm.io/). 🥁
-
-As of December 2022, my focus is on getting up to speed in my new job before venturing back into personal side projects next year. Always up for exchanging about edtech and language learning!
-
-### 🪄 Technologies
-HTML, CSS, SCSS, JavaScript, TypeScript, React, Next, Redux, React Native, Node, Express, MongoDB, webpack, Babel, ESLint, Prettier, Jest, Git.
-
-### 🌱 Interests
-Education, health and wellbeing, social justice.
+![Leon from the movie "Leon the Professional" taking care of his plant's foliage near the window on a sunny day. About his vegetal best friend, he says: "Always happy. No questions."](https://64.media.tumblr.com/412d1321498b295e0f4d698ecdeedd20/010a3dd0252db60e-6a/s500x750/c607e910580779359508b82a5355b30f01a10324.gif)
