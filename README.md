@@ -32,3 +32,6 @@ As of July 2026, I'm building Prompto, my ✨ ultimate RoR / React.js portfolio 
 
 ## 📫 Let's connect
 - [LinkedIn](https://www.linkedin.com/in/clrtrm/)
+
+![Cover picture: two 2D animated characters watching the sunset from the tiled rooftop of a suburban house on a summer night while drinking sodas](./assets/cover.webp)
+
